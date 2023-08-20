@@ -70,7 +70,7 @@
 //   deleteCategory,
 // };
 
-const Category = require("./Model");
+const Category = require("./model");
 const { connect } = require("mongoose");
 require("dotenv").config();
 
